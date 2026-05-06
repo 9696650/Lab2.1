@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab2._1
 {
-    // ---------------------------------------------------------
-    // ЧАСТИНА 2: КОНСОЛЬНИЙ ДОДАТОК (Testing)
-    // Тут можна використовувати Console.WriteLine / ReadLine
-    // ---------------------------------------------------------
+
     namespace ConsoleApp
     {
         using ShapeLibrary;
