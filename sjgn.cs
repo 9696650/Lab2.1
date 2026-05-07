@@ -16,13 +16,13 @@ namespace Lab._4
             {
 
 
-                Rhombus myRhombus = new Rhombus(8, 9, 5);
+                Rhomb myRhomb = new Rhomb(8, 9, 5);
 
 
-                Console.WriteLine(myRhombus.GetInfo());
+                Console.WriteLine(myRhomb.GetInfo());
 
 
-                double perimeter = myRhombus.GetPerimeter();
+                double perimeter = myRhomb.GetPerimeter();
                 double area = myRhombus.GetArea();
 
 
