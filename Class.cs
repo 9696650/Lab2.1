@@ -37,18 +37,18 @@ namespace Lab._4
             return Math.Sqrt(sideX * sideX + sideY * sideY);
         }
     }
-    public class Rhombus : Figure
+    public class Rhomb : Figure
     {
         private double height;
 
 
-        public Rhombus() : base()
+        public Rhomb() : base()
         {
             height = 0;
         }
 
 
-        public Rhombus(double x, double y, double h) : base(x, y)
+        public Rhomb(double x, double y, double h) : base(x, y)
         {
             height = h;
         }
